@@ -18,6 +18,8 @@ Our mission is to leverage these exciting technologies to re-imagine how documen
 
 To get start, simply visit our UnderDoc Developer Portal (https://dev-portal.underdoc.io), signup for an account (free and no credit card required).
 
+In our Developer Portal, there is a Playground that you can try out your own images and view the extracted output.
+
 For our Expense Document Understanding API, you can see the API Spec at https://api.underdoc.io/docs
 
 ## Python SDK
@@ -37,5 +39,7 @@ pip install underdoc
 You can refer to the document and examples in our publib Github repo: https://github.com/under-doc/underdoc-python-sdk
 
 ## Contact US
+
+Visit our website (https://www.underdoc.io) for more information, sample images and their extracted output, as well as our pricing plan. 
 
 For any questions, feel free to contact us at enquiry@underdoc.io
