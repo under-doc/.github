@@ -20,7 +20,7 @@ To get start, simply visit our UnderDoc Developer Portal (https://dev-portal.und
 
 In our Developer Portal, there is a Playground that you can try out your own images and view the extracted output.
 
-For our Expense Document Understanding API, you can see the API Spec at https://api.underdoc.io/docs
+For our Expense Document Understanding API, you can see the API Spec at https://api.underdoc.io/redoc
 
 ## Python SDK
 
